@@ -1,0 +1,6 @@
+Package: newprojectcli
+Version: 1.0
+Maintainer: jdev082
+Architecture: all
+Description: new project command line
+
